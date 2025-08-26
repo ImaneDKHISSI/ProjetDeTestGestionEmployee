@@ -1,0 +1,378 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\imane\\TestAsp.Net\\ProjetTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF13A79-8C10-4F4A-81B0-8B4DEFA9E7AE}|ProjetTest\\ProjetTest.csproj|c:\\users\\hp\\documents\\imane\\testasp.net\\projettest\\projettest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF13A79-8C10-4F4A-81B0-8B4DEFA9E7AE}|ProjetTest\\ProjetTest.csproj|solutionrelative:projettest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF13A79-8C10-4F4A-81B0-8B4DEFA9E7AE}|ProjetTest\\ProjetTest.csproj|c:\\users\\hp\\documents\\imane\\testasp.net\\projettest\\projettest\\models\\departement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF13A79-8C10-4F4A-81B0-8B4DEFA9E7AE}|ProjetTest\\ProjetTest.csproj|solutionrelative:projettest\\models\\departement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF13A79-8C10-4F4A-81B0-8B4DEFA9E7AE}|ProjetTest\\ProjetTest.csproj|c:\\users\\hp\\documents\\imane\\testasp.net\\projettest\\projettest\\models\\employe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF13A79-8C10-4F4A-81B0-8B4DEFA9E7AE}|ProjetTest\\ProjetTest.csproj|solutionrelative:projettest\\models\\employe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF13A79-8C10-4F4A-81B0-8B4DEFA9E7AE}|ProjetTest\\ProjetTest.csproj|c:\\users\\hp\\documents\\imane\\testasp.net\\projettest\\projettest\\dto\\employedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF13A79-8C10-4F4A-81B0-8B4DEFA9E7AE}|ProjetTest\\ProjetTest.csproj|solutionrelative:projettest\\dto\\employedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF13A79-8C10-4F4A-81B0-8B4DEFA9E7AE}|ProjetTest\\ProjetTest.csproj|c:\\users\\hp\\documents\\imane\\testasp.net\\projettest\\projettest\\controllers\\employescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF13A79-8C10-4F4A-81B0-8B4DEFA9E7AE}|ProjetTest\\ProjetTest.csproj|solutionrelative:projettest\\controllers\\employescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF13A79-8C10-4F4A-81B0-8B4DEFA9E7AE}|ProjetTest\\ProjetTest.csproj|c:\\users\\hp\\documents\\imane\\testasp.net\\projettest\\projettest\\services\\implementations\\employeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF13A79-8C10-4F4A-81B0-8B4DEFA9E7AE}|ProjetTest\\ProjetTest.csproj|solutionrelative:projettest\\services\\implementations\\employeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF13A79-8C10-4F4A-81B0-8B4DEFA9E7AE}|ProjetTest\\ProjetTest.csproj|c:\\users\\hp\\documents\\imane\\testasp.net\\projettest\\projettest\\services\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF13A79-8C10-4F4A-81B0-8B4DEFA9E7AE}|ProjetTest\\ProjetTest.csproj|solutionrelative:projettest\\services\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF13A79-8C10-4F4A-81B0-8B4DEFA9E7AE}|ProjetTest\\ProjetTest.csproj|c:\\users\\hp\\documents\\imane\\testasp.net\\projettest\\projettest\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF13A79-8C10-4F4A-81B0-8B4DEFA9E7AE}|ProjetTest\\ProjetTest.csproj|solutionrelative:projettest\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF13A79-8C10-4F4A-81B0-8B4DEFA9E7AE}|ProjetTest\\ProjetTest.csproj|c:\\users\\hp\\documents\\imane\\testasp.net\\projettest\\projettest\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF13A79-8C10-4F4A-81B0-8B4DEFA9E7AE}|ProjetTest\\ProjetTest.csproj|solutionrelative:projettest\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF13A79-8C10-4F4A-81B0-8B4DEFA9E7AE}|ProjetTest\\ProjetTest.csproj|c:\\users\\hp\\documents\\imane\\testasp.net\\projettest\\projettest\\projettest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DDF13A79-8C10-4F4A-81B0-8B4DEFA9E7AE}|ProjetTest\\ProjetTest.csproj|solutionrelative:projettest\\projettest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF13A79-8C10-4F4A-81B0-8B4DEFA9E7AE}|ProjetTest\\ProjetTest.csproj|c:\\users\\hp\\documents\\imane\\testasp.net\\projettest\\projettest\\services\\implementations\\departementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF13A79-8C10-4F4A-81B0-8B4DEFA9E7AE}|ProjetTest\\ProjetTest.csproj|solutionrelative:projettest\\services\\implementations\\departementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF13A79-8C10-4F4A-81B0-8B4DEFA9E7AE}|ProjetTest\\ProjetTest.csproj|c:\\users\\hp\\documents\\imane\\testasp.net\\projettest\\projettest\\mappers\\employemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF13A79-8C10-4F4A-81B0-8B4DEFA9E7AE}|ProjetTest\\ProjetTest.csproj|solutionrelative:projettest\\mappers\\employemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF13A79-8C10-4F4A-81B0-8B4DEFA9E7AE}|ProjetTest\\ProjetTest.csproj|c:\\users\\hp\\documents\\imane\\testasp.net\\projettest\\projettest\\dto\\departementdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF13A79-8C10-4F4A-81B0-8B4DEFA9E7AE}|ProjetTest\\ProjetTest.csproj|solutionrelative:projettest\\dto\\departementdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF13A79-8C10-4F4A-81B0-8B4DEFA9E7AE}|ProjetTest\\ProjetTest.csproj|c:\\users\\hp\\documents\\imane\\testasp.net\\projettest\\projettest\\controllers\\departementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF13A79-8C10-4F4A-81B0-8B4DEFA9E7AE}|ProjetTest\\ProjetTest.csproj|solutionrelative:projettest\\controllers\\departementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF13A79-8C10-4F4A-81B0-8B4DEFA9E7AE}|ProjetTest\\ProjetTest.csproj|c:\\users\\hp\\documents\\imane\\testasp.net\\projettest\\projettest\\services\\interfaces\\iemployeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF13A79-8C10-4F4A-81B0-8B4DEFA9E7AE}|ProjetTest\\ProjetTest.csproj|solutionrelative:projettest\\services\\interfaces\\iemployeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF13A79-8C10-4F4A-81B0-8B4DEFA9E7AE}|ProjetTest\\ProjetTest.csproj|c:\\users\\hp\\documents\\imane\\testasp.net\\projettest\\projettest\\dto\\updateemployedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF13A79-8C10-4F4A-81B0-8B4DEFA9E7AE}|ProjetTest\\ProjetTest.csproj|solutionrelative:projettest\\dto\\updateemployedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF13A79-8C10-4F4A-81B0-8B4DEFA9E7AE}|ProjetTest\\ProjetTest.csproj|c:\\users\\hp\\documents\\imane\\testasp.net\\projettest\\projettest\\services\\interfaces\\idepartementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF13A79-8C10-4F4A-81B0-8B4DEFA9E7AE}|ProjetTest\\ProjetTest.csproj|solutionrelative:projettest\\services\\interfaces\\idepartementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF13A79-8C10-4F4A-81B0-8B4DEFA9E7AE}|ProjetTest\\ProjetTest.csproj|c:\\users\\hp\\documents\\imane\\testasp.net\\projettest\\projettest\\mappers\\departementmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF13A79-8C10-4F4A-81B0-8B4DEFA9E7AE}|ProjetTest\\ProjetTest.csproj|solutionrelative:projettest\\mappers\\departementmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF13A79-8C10-4F4A-81B0-8B4DEFA9E7AE}|ProjetTest\\ProjetTest.csproj|c:\\users\\hp\\documents\\imane\\testasp.net\\projettest\\projettest\\data\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF13A79-8C10-4F4A-81B0-8B4DEFA9E7AE}|ProjetTest\\ProjetTest.csproj|solutionrelative:projettest\\data\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF13A79-8C10-4F4A-81B0-8B4DEFA9E7AE}|ProjetTest\\ProjetTest.csproj|c:\\users\\hp\\documents\\imane\\testasp.net\\projettest\\projettest\\migrations\\20250820200213_modifdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF13A79-8C10-4F4A-81B0-8B4DEFA9E7AE}|ProjetTest\\ProjetTest.csproj|solutionrelative:projettest\\migrations\\20250820200213_modifdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF13A79-8C10-4F4A-81B0-8B4DEFA9E7AE}|ProjetTest\\ProjetTest.csproj|c:\\users\\hp\\documents\\imane\\testasp.net\\projettest\\projettest\\migrations\\20250825203035_suppresion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF13A79-8C10-4F4A-81B0-8B4DEFA9E7AE}|ProjetTest\\ProjetTest.csproj|solutionrelative:projettest\\migrations\\20250825203035_suppresion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250825203035_suppresion.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\imane\\TestAsp.Net\\ProjetTest\\ProjetTest\\Migrations\\20250825203035_suppresion.cs",
+              "RelativeDocumentMoniker": "ProjetTest\\Migrations\\20250825203035_suppresion.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\imane\\TestAsp.Net\\ProjetTest\\ProjetTest\\Migrations\\20250825203035_suppresion.cs",
+              "RelativeToolTip": "ProjetTest\\Migrations\\20250825203035_suppresion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T20:30:35.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\imane\\TestAsp.Net\\ProjetTest\\ProjetTest\\Program.cs",
+              "RelativeDocumentMoniker": "ProjetTest\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\imane\\TestAsp.Net\\ProjetTest\\ProjetTest\\Program.cs",
+              "RelativeToolTip": "ProjetTest\\Program.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAcwG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T20:47:22.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\imane\\TestAsp.Net\\ProjetTest\\ProjetTest\\Dto\\EmployeDto.cs",
+              "RelativeDocumentMoniker": "ProjetTest\\Dto\\EmployeDto.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\imane\\TestAsp.Net\\ProjetTest\\ProjetTest\\Dto\\EmployeDto.cs",
+              "RelativeToolTip": "ProjetTest\\Dto\\EmployeDto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA+wAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T18:25:56.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployesController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\imane\\TestAsp.Net\\ProjetTest\\ProjetTest\\Controllers\\EmployesController.cs",
+              "RelativeDocumentMoniker": "ProjetTest\\Controllers\\EmployesController.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\imane\\TestAsp.Net\\ProjetTest\\ProjetTest\\Controllers\\EmployesController.cs",
+              "RelativeToolTip": "ProjetTest\\Controllers\\EmployesController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAuwBIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T18:12:41.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Departement.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\imane\\TestAsp.Net\\ProjetTest\\ProjetTest\\Models\\Departement.cs",
+              "RelativeDocumentMoniker": "ProjetTest\\Models\\Departement.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\imane\\TestAsp.Net\\ProjetTest\\ProjetTest\\Models\\Departement.cs",
+              "RelativeToolTip": "ProjetTest\\Models\\Departement.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T17:16:57.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\imane\\TestAsp.Net\\ProjetTest\\ProjetTest\\Dto\\LoginDto.cs",
+              "RelativeDocumentMoniker": "ProjetTest\\Dto\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\imane\\TestAsp.Net\\ProjetTest\\ProjetTest\\Dto\\LoginDto.cs",
+              "RelativeToolTip": "ProjetTest\\Dto\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T20:50:36.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employe.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\imane\\TestAsp.Net\\ProjetTest\\ProjetTest\\Models\\Employe.cs",
+              "RelativeDocumentMoniker": "ProjetTest\\Models\\Employe.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\imane\\TestAsp.Net\\ProjetTest\\ProjetTest\\Models\\Employe.cs",
+              "RelativeToolTip": "ProjetTest\\Models\\Employe.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T17:14:26.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\imane\\TestAsp.Net\\ProjetTest\\ProjetTest\\Services\\Implementations\\AuthService.cs",
+              "RelativeDocumentMoniker": "ProjetTest\\Services\\Implementations\\AuthService.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\imane\\TestAsp.Net\\ProjetTest\\ProjetTest\\Services\\Implementations\\AuthService.cs",
+              "RelativeToolTip": "ProjetTest\\Services\\Implementations\\AuthService.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T20:52:29.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\imane\\TestAsp.Net\\ProjetTest\\ProjetTest\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ProjetTest\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\imane\\TestAsp.Net\\ProjetTest\\ProjetTest\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ProjetTest\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAcwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T20:53:26.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProjetTest.csproj",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\imane\\TestAsp.Net\\ProjetTest\\ProjetTest\\ProjetTest.csproj",
+              "RelativeDocumentMoniker": "ProjetTest\\ProjetTest.csproj",
+              "ToolTip": "C:\\Users\\HP\\Documents\\imane\\TestAsp.Net\\ProjetTest\\ProjetTest\\ProjetTest.csproj",
+              "RelativeToolTip": "ProjetTest\\ProjetTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-24T20:37:57.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\imane\\TestAsp.Net\\ProjetTest\\ProjetTest\\Services\\Implementations\\EmployeService.cs",
+              "RelativeDocumentMoniker": "ProjetTest\\Services\\Implementations\\EmployeService.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\imane\\TestAsp.Net\\ProjetTest\\ProjetTest\\Services\\Implementations\\EmployeService.cs",
+              "RelativeToolTip": "ProjetTest\\Services\\Implementations\\EmployeService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAiwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T18:01:49.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeMapper.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\imane\\TestAsp.Net\\ProjetTest\\ProjetTest\\Mappers\\EmployeMapper.cs",
+              "RelativeDocumentMoniker": "ProjetTest\\Mappers\\EmployeMapper.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\imane\\TestAsp.Net\\ProjetTest\\ProjetTest\\Mappers\\EmployeMapper.cs",
+              "RelativeToolTip": "ProjetTest\\Mappers\\EmployeMapper.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T18:14:13.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DepartementService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\imane\\TestAsp.Net\\ProjetTest\\ProjetTest\\Services\\Implementations\\DepartementService.cs",
+              "RelativeDocumentMoniker": "ProjetTest\\Services\\Implementations\\DepartementService.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\imane\\TestAsp.Net\\ProjetTest\\ProjetTest\\Services\\Implementations\\DepartementService.cs",
+              "RelativeToolTip": "ProjetTest\\Services\\Implementations\\DepartementService.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAgwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T18:34:19.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DepartementDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\imane\\TestAsp.Net\\ProjetTest\\ProjetTest\\Dto\\DepartementDto.cs",
+              "RelativeDocumentMoniker": "ProjetTest\\Dto\\DepartementDto.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\imane\\TestAsp.Net\\ProjetTest\\ProjetTest\\Dto\\DepartementDto.cs",
+              "RelativeToolTip": "ProjetTest\\Dto\\DepartementDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T17:51:56.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DepartementsController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\imane\\TestAsp.Net\\ProjetTest\\ProjetTest\\Controllers\\DepartementsController.cs",
+              "RelativeDocumentMoniker": "ProjetTest\\Controllers\\DepartementsController.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\imane\\TestAsp.Net\\ProjetTest\\ProjetTest\\Controllers\\DepartementsController.cs",
+              "RelativeToolTip": "ProjetTest\\Controllers\\DepartementsController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T19:47:22.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IEmployeService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\imane\\TestAsp.Net\\ProjetTest\\ProjetTest\\Services\\Interfaces\\IEmployeService.cs",
+              "RelativeDocumentMoniker": "ProjetTest\\Services\\Interfaces\\IEmployeService.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\imane\\TestAsp.Net\\ProjetTest\\ProjetTest\\Services\\Interfaces\\IEmployeService.cs",
+              "RelativeToolTip": "ProjetTest\\Services\\Interfaces\\IEmployeService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T18:01:21.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UpdateEmployeDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\imane\\TestAsp.Net\\ProjetTest\\ProjetTest\\Dto\\UpdateEmployeDto.cs",
+              "RelativeDocumentMoniker": "ProjetTest\\Dto\\UpdateEmployeDto.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\imane\\TestAsp.Net\\ProjetTest\\ProjetTest\\Dto\\UpdateEmployeDto.cs",
+              "RelativeToolTip": "ProjetTest\\Dto\\UpdateEmployeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T19:58:00.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DepartementMapper.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\imane\\TestAsp.Net\\ProjetTest\\ProjetTest\\Mappers\\DepartementMapper.cs",
+              "RelativeDocumentMoniker": "ProjetTest\\Mappers\\DepartementMapper.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\imane\\TestAsp.Net\\ProjetTest\\ProjetTest\\Mappers\\DepartementMapper.cs",
+              "RelativeToolTip": "ProjetTest\\Mappers\\DepartementMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T17:54:58.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IDepartementService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\imane\\TestAsp.Net\\ProjetTest\\ProjetTest\\Services\\Interfaces\\IDepartementService.cs",
+              "RelativeDocumentMoniker": "ProjetTest\\Services\\Interfaces\\IDepartementService.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\imane\\TestAsp.Net\\ProjetTest\\ProjetTest\\Services\\Interfaces\\IDepartementService.cs",
+              "RelativeToolTip": "ProjetTest\\Services\\Interfaces\\IDepartementService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAIBJwA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T18:34:29.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20250820200213_modifDb.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\imane\\TestAsp.Net\\ProjetTest\\ProjetTest\\Migrations\\20250820200213_modifDb.cs",
+              "RelativeDocumentMoniker": "ProjetTest\\Migrations\\20250820200213_modifDb.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\imane\\TestAsp.Net\\ProjetTest\\ProjetTest\\Migrations\\20250820200213_modifDb.cs",
+              "RelativeToolTip": "ProjetTest\\Migrations\\20250820200213_modifDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T20:02:13.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MyContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\imane\\TestAsp.Net\\ProjetTest\\ProjetTest\\Data\\MyContext.cs",
+              "RelativeDocumentMoniker": "ProjetTest\\Data\\MyContext.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\imane\\TestAsp.Net\\ProjetTest\\ProjetTest\\Data\\MyContext.cs",
+              "RelativeToolTip": "ProjetTest\\Data\\MyContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T17:24:04.588Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
