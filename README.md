@@ -13,8 +13,6 @@ Node.js & Angular CLI
 
 2) Backend (.NET 8)
 
-Fichiers importants : Program.cs, appsettings.json, Dockerfile, docker-compose.yml
-
 Étapes :
 
 Se placer dans le répertoire backend (Projettest)
@@ -24,8 +22,6 @@ docker-compose build --no-cache
 docker-compose up -d
 
 Swagger : http://localhost:7006/swagger/index.html # url de swagger
-
-Chaîne de connexion SQL Server : Server=localhost,1433;Database=ProjetEmploye;User Id=sa;Password=Admin@1234;
 
 3) Frontend (Angular)
 
@@ -37,9 +33,8 @@ npm install
 
 Configurer apiUrl dans environment.ts : 'http://localhost:7006/api'
 
-ng serve -o
 
-Accéder à l’application : http://localhost:4200
+Accéder à l’application avec la commande : ng serve -o
 
 4) SQL Server Docker
 
@@ -51,15 +46,11 @@ Mot de passe SA : Admin@1234
 
 Base de données : ProjetEmploye
 
-Healthcheck automatique inclus
-
 5) Notes importantes
 
 Swagger : /swagger/index.html
 
 Port backend : 7006
-
-Warnings DataProtection dans Docker peuvent être ignorés pour dev
 
 6) Commandes utiles
 
